@@ -8,7 +8,7 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
 <div>
   <a href="https://github.com/Wendel-Hebert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=merko">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=merko">
 </div>
 
 ### Tecnologias utilizadas
