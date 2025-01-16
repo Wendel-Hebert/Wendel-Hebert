@@ -3,7 +3,7 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
 
 
 <div>
-  <a href="https://instagram.com/wendel_hebert" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/wendelhebert_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:wendel.feitosa@sou.inteli.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
       
