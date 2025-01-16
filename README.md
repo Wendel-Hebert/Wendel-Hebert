@@ -2,13 +2,15 @@
 Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, Ceará, concluí o ensino médio na rede estadual de ensino em tempo integral e logo após consegui ingressar em uma universidade federal (UFC), atualmete estou Cursando Engenharia de Software no Instituto de Tecnológia e liderança - inteli buscando integrar a tecnologia ao cotidiano de forma inteligente e inovadora as nossas vidas. 
 
 
-
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/wendel_hebert)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com?wendel.feitosa@sou.inteli.edu.br)
+<div>
+  <a href="https://instagram.com/wendel_hebert" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:wendel.feitosa@sou.inteli.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+      
 <div>
   <a href="https://github.com/Wendel-Hebert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=merko">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=merko">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=merko" target="_blank">
 </div>
 
 ### Tecnologias utilizadas
