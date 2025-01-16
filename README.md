@@ -10,8 +10,8 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
       
 <div>
   <a href="https://github.com/Wendel-Hebert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=merko">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=merko" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=synthwave">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=synthwave" target="_blank">
 </div>
 
 ### Tecnologias utilizadas
@@ -24,5 +24,5 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
 💭 Um bom programador não é aquele que escreve muito código, mas aquele que entende o problema.
 </br></br>
 
- <img aling="rigth" alt="gif" heinght="90" width="100" src="https://cdn.discordapp.com/attachments/1124774864004325408/1329248083430605008/ezgif.com-animated-gif-maker.gif?ex=6789a63f&is=678854bf&hm=b7c32ae9bce028ff9acba4a687eee8ddfb1844ffd2dd7a88648a17436c345f4b&">
+ <img aling="rigth" alt="gif" heinght="100" width="140" src="https://cdn.discordapp.com/attachments/1124774864004325408/1329312906856366111/ezgif.com-animated-gif-maker_1.gif?ex=6789e29e&is=6788911e&hm=79c7bcf4d8e0823e535f1e825e8783478e58bde1621ba825598dba1214e4a00b&">
 
