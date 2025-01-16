@@ -4,7 +4,7 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
 
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/wendel_hebert)
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com?wendel.feitosa@sou.inteli.edu.br)
 <div>
   <a href="https://github.com/Wendel-Hebert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=merko">
@@ -19,9 +19,7 @@ Olá, me chamo Wendel Hbert Feitosa tenho 19 anos e sou natural de Caririaçu, C
 </div></br>
 
 💭 Um bom programador não é aquele que escreve muito código, mas aquele que entende o problema.
-
-#### 📧 Email para contato:
-- [Wendel.feitosa@sou.inteli.edu.br]()</br></br>
+</br></br>
 
  <img aling="rigth" alt="gif" heinght="90" width="100" src="https://cdn.discordapp.com/attachments/1124774864004325408/1329248083430605008/ezgif.com-animated-gif-maker.gif?ex=6789a63f&is=678854bf&hm=b7c32ae9bce028ff9acba4a687eee8ddfb1844ffd2dd7a88648a17436c345f4b&">
 
