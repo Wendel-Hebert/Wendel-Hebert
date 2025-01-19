@@ -1,4 +1,4 @@
-## 🕵️‍♂️ Sobre: 
+## 🕵️‍♂️ Sobre
 Olá, me chamo Wendel Hebert Feitosa tenho 19 anos e sou natural de Caririaçu, Ceará, concluí o ensino médio na rede estadual de ensino em tempo integral e logo após consegui ingressar em uma universidade federal (UFC), atualmete estou Cursando Engenharia de Software no Instituto de Tecnológia e liderança - inteli buscando integrar a tecnologia ao cotidiano de forma inteligente e inovadora as nossas vidas. 
 
 
@@ -10,8 +10,8 @@ Olá, me chamo Wendel Hebert Feitosa tenho 19 anos e sou natural de Caririaçu, 
       
 <div>
   <a href="https://github.com/Wendel-Hebert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=synthwave">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=synthwave" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Hebert&show=true&theme=midnight-purple">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Hebert&layout=compact&langs_count-16&theme=midnight-purple" target="_blank">
 </div>
 
 ### Tecnologias utilizadas
