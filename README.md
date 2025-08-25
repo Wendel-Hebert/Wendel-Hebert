@@ -1,4 +1,4 @@
-## Sobre
+## 👨🏾‍💻 Sobre
 Olá, me chamo Wendel Hebert Feitosa tenho 19 anos e sou natural de Caririaçu, Ceará, concluí o ensino médio na rede estadual de ensino em tempo integral e logo após consegui ingressar em uma universidade federal (UFC), atualmete estou Cursando "[Engenharia de Software](https://www.sydle.com/br/blog/engenheiro-de-software-5fd3c53d725a6426833ae0eb)" no Instituto de Tecnológia e liderança - inteli buscando integrar a tecnologia ao cotidiano de forma inteligente e inovadora as nossas vidas. 
 </br>
 
