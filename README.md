@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wendel+Hebert+👋;Software+Engineering+Student;Backend+Developer;Python+%7C+JavaScript+%7C+TypeScript;Building+smart+solutions+with+technology+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wendel+Hebert+👋;Software+Engineering+Student;Backend+Develop+|+DevOps;Python+%7C+JavaScript+%7C+TypeScript;Building+smart+solutions+with+technology+🚀" />
 
 </div>
 
