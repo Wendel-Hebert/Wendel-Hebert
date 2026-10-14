@@ -21,6 +21,7 @@
 
 🎓 Estudante de **Engenharia de Software — Inteli**  
 🌎 Natural de **Caririaçu - Ceará**  
+📍 Atualmente em **SP - São Paulo**
 💻 Focado em **Backend, APIs e Automação**  
 ⚡ Apaixonado por resolver problemas reais com tecnologia
 
